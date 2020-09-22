@@ -1,0 +1,107 @@
+[
+  {
+    "etymology": "From Middle English lovely, luvelich, lufli, from Old English luflīc (“amiable, loving, lovable”), equivalent to love +\u200e -ly.\n",
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "text": [
+          "lovely (comparative lovelier, superlative loveliest)",
+          "Beautiful; charming; very pleasing in form, looks, tone, or manner.",
+          "Very nice, wonderful.",
+          "(obsolete) Inspiring love or friendship; amiable.",
+          "(obsolete) Loving, filled with love."
+        ],
+        "relatedWords": [
+          {
+            "relationshipType": "synonyms",
+            "words": [
+              "beautiful",
+              "charming",
+              "lovable",
+              "lovesome",
+              "loving",
+              "See also Thesaurus:beautiful"
+            ]
+          },
+          {
+            "relationshipType": "related terms",
+            "words": ["loverly", "lovingly"]
+          }
+        ],
+        "examples": [
+          "It's a lovely day and the sun is shining.",
+          "The music box plays a lovely melody.",
+          "The castle garden enchants visitors with its lovely blooms.",
+          "Not one so fair of face, of speech so lovely.",
+          "Then I look at you / And the world's alright with me / Just one look at you / And I know it's gonna be / A lovely day",
+          "It would be lovely to have a little more money to spend.",
+          "It is a lovely night, and why should we not prolong our ride a little?\"",
+          "a most lovely gentlemanlike man",
+          "Many a lovely look on them he cast.",
+          "seal the title with a lovely kiss"
+        ]
+      },
+      {
+        "partOfSpeech": "adverb",
+        "text": [
+          "lovely (comparative more lovely, superlative most lovely)",
+          "(informal) In a lovely fashion or manner; beautifully."
+        ],
+        "relatedWords": [],
+        "examples": [
+          "She's not everyone's cup of tea, what with the way she speaks her mind and doesn't always do her hair in the morning, but she scrubs up lovely."
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "text": [
+          "lovely (plural lovelies)",
+          "(informal) An attractive, lovely person, especially a (professional) beauty.",
+          "Term of fond address.",
+          "A lovely object."
+        ],
+        "relatedWords": [],
+        "examples": [
+          "Synonyms: pretty, darling",
+          "a calendar depicting young lovelies in bikinis",
+          "Goodbye, my lovely.",
+          "But where do you go to my lovely / When you're alone in your bed?",
+          "In Montréal, the summer months bring in a huge variety of fruits and vegetables and this is the time to preserve them. Preserving can also refer to the storage of these fiber and vitamin rich lovelies.",
+          "May Bell ironed the last ruffle and then hung the dress in the wardrobe next to her other lovelies."
+        ]
+      }
+    ],
+    "pronunciations": {
+      "text": ["enPR: lŭv′lē, IPA: /ˈlʌvli/"],
+      "audio": [
+        "//upload.wikimedia.org/wikipedia/commons/c/cb/En-us-lovely.ogg"
+      ]
+    }
+  },
+  {
+    "etymology": "From Middle English lovely, loveli, lofli, lovelike, lovelic (“praiseworthy; laudatory”), equivalent to lofe +\u200e -ly. Cognate with Dutch loffelijk (“laudable, praiseworthy”), German löblich (“commendable, laudable, praiseworthy”), Swedish lovlig (“permissible”). More at lofe, love.\n",
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "text": [
+          "lovely (comparative lovelier or more lovely, superlative loveliest or most lovely)",
+          "(archaic) Worthy of praise."
+        ],
+        "relatedWords": [],
+        "examples": [
+          "And so he is in the eyes of all who live to his praise. To them every attribute of God is lovely. The holiness and purity of his nature is most lovely to them.",
+          "He is altogether lovely. O, all our praises of him are poor and low things!",
+          "О praise the Lord, for the Lord is gracious\xa0: О sing praises unto his Name, for it is lovely.",
+          "It is the duty of all believers to join themselves cheerfully in the setting forth the Lord's care over them, and whatsoever may make his lovely Majesty known to the world: for so he requireth the present precept and example, -- sing praises to the Lord.",
+          "My precious Saviour's matchless name\xa0; He's wise and holy, just and true, And altogether lovely too."
+        ]
+      }
+    ],
+    "pronunciations": {
+      "text": ["enPR: lŭv′lē, IPA: /ˈlʌvli/"],
+      "audio": [
+        "//upload.wikimedia.org/wikipedia/commons/c/cb/En-us-lovely.ogg"
+      ]
+    }
+  }
+]
