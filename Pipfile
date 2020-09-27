@@ -10,6 +10,8 @@ autopep8 = "*"
 [packages]
 genanki = "*"
 wiktionaryparser = "*"
+python-dotenv = "*"
+anki = "*"
 
 [requires]
 python_version = "3.8"

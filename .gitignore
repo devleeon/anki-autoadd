@@ -8,3 +8,4 @@ tests/*
 __pycache__/*
 /ankimaker/__pycache__/*
 /ankimaker/loaders/__pycache__/*
+.env
